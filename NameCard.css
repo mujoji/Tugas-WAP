@@ -16,6 +16,17 @@
     width: 100%;
     margin: 0;
 }
+.full .logo{
+    float: left;
+    margin-left: 20pt;
+}
+.full .logo img{
+    position: relative;
+    height: 40pt;
+    width: auto;
+    border-radius: 70%;
+    margin-top: 30pt;
+}
 .full .dalam{
     position: absolute;
     height: 80vh;
@@ -85,7 +96,7 @@
 .full .dalam .kanan .social{
     float: left;
     margin-left: 10pt;
-    margin-top: 25pt;
+    margin-top: 40pt;
 }
 .full .dalam .kanan .social img{
     height: 40pt;
